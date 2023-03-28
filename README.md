@@ -1,1 +1,2 @@
-# PureThermal-Micro-Breakout-Board Documentation
+# PureThermal-Micro-Breakout-Board 
+Documentation and Resources
