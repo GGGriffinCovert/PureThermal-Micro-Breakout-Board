@@ -6,5 +6,6 @@ For getting started with software, see the [LeptonModule GitHub Repo](https://gi
 Schematic Example:
 ![KiCAD Schematic example for PureThermal Micro Breakout Board](https://github.com/griffin175/PureThermal-Micro-Breakout-Board/blob/main/Microbob-kicad-schematic.png?raw=true)
 
-Included KiCAD footprint:
+Recommended Landing Pattern:
 ![KiCAD Footprint example for PureThermal Micro Breakout Board](https://github.com/griffin175/PureThermal-Micro-Breakout-Board/blob/main/Microbob-kicad-footprint.png?raw=true)
+KiCAD footprint included in this repo.
